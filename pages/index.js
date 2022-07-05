@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Player2 from '../components/BitmovinPlayer'
 
 export default function Home() {
   return (
